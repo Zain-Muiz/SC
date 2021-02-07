@@ -69,3 +69,7 @@
     width: 100%;
 }
    }
+
+.footemail a:hover{
+    color:#e6e8ea !important;
+}
