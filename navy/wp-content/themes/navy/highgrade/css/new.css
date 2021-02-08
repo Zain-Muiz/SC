@@ -125,3 +125,60 @@
         border-color: #2f55d4 !important;
         color: #fff !important;
     }
+
+    /********************** HOME ***********************/
+
+    .title-heading {
+        line-height: 26px;
+    }
+    .bg-half-170 {
+        padding: 170px 0;
+        background-size: cover;
+        -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+        position: relative;
+        background-position: center center;
+    }
+    .border-bottom {
+        border-bottom: 1px solid #e9ecef !important;
+    }
+    .bg-half-170 {
+        padding: 170px 0;
+        background-size: cover;
+        -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+        position: relative;
+        background-position: center center;
+    }
+    .title-heading .para-desc {
+        font-size: 18px;
+    }
+    .title-heading .para-desc {
+        font-size: 17px;
+        letter-spacing: 0.5px;
+    }
+    .para-desc {
+        max-width: 600px;
+    }
+    .text-muted {
+        color: #8492a6 !important;
+    }
+    .para-desc {
+        max-width: 600px;
+    }
+    .text-muted {
+        color: #8492a6 !important;
+    }
+    
+    @media (max-width: 767px){
+.bg-home, .bg-half-170, .bg-half-260, .main-slider .slides .bg-slider, .bg-marketing, .swiper-slider-hero .swiper-container .swiper-slide {
+    padding: 150px 0;
+    height: auto;
+}}
+
+
+
+
+    /********************* HOME ************************/
